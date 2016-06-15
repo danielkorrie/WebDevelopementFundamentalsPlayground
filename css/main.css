@@ -1,0 +1,77 @@
+/*     CSS Items     */
+
+body {
+	font-family: Arial;
+
+}
+
+
+.cat-statement{
+	border:50px solid black;
+}
+/*   Nav bar CSS */
+.nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+
+}
+.nav li{
+	float:left;
+
+}
+.nav li a{
+	display:  inline-black;
+	color:orange;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.nav li  a:hover{
+	background-color:green}
+
+
+.project-box-1{
+	height:300px;
+	background-color:silver;
+
+	}
+
+.project-box-2{
+	height:300px;
+	background-color:red;}
+
+	.project-box-3{
+	height:300px;
+	background-color:yellow;
+
+	}
+
+.project-box-4{
+	height:300px;
+	background-color:orange;}
+	
+.project-box-5{
+	height:300px;
+	background-color:green;{
+
+	}
+
+	.project-box-6{
+	height:300px;
+	background-image: url("../img/ferrari.jpg");
+
+	}
+
+
+
+
+
+
+}
+
+	
+
+
