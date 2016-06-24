@@ -4,8 +4,6 @@ body {
 	font-family: Arial;
 
 }
-
-
 .cat-statement{
 	border:50px solid black;
 }
@@ -30,20 +28,20 @@ body {
 }
 
 .nav li  a:hover{
-	background-color:green}
-
+	background-color:green
+}
 
 .project-box-1{
 	height:300px;
 	background-color:silver;
-
-	}
+}
 
 .project-box-2{
 	height:300px;
-	background-color:red;}
+	background-color:red;
+}
 
-	.project-box-3{
+.project-box-3{
 	height:300px;
 	background-color:yellow;
 
@@ -51,27 +49,98 @@ body {
 
 .project-box-4{
 	height:300px;
-	background-color:orange;}
+	background-color:orange;
+}
 	
 .project-box-5{
 	height:300px;
-	background-color:green;{
-
-	}
-
-	.project-box-6{
-	height:300px;
-	background-image: url("../img/ferrari.jpg");
-
-	}
-
-
-
-
-
-
+	background-color:green;
 }
 
-	
+.project-box-6{
+	height:300px;
+	background-image: url("../img/ferrari.jpg");
+}
 
 
+#my-age{
+	color:red
+}
+#fadeInHelloWorld {
+  width:100px;
+  height:20px;
+  display:none;
+  background-color:red;
+}
+
+#circle {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 50px;
+  margin: 20px 0px 0px 20px;
+  position:absolute;
+}
+
+#color-square {
+  
+  border-radius: 9px;
+  position:absolute;
+  margin:20px 0px 0px 300px;
+  border-top: 70px solid red;
+  border-right:70px solid green;
+  border-left:70px solid orange;
+  border-bottom:70px solid black;
+    }
+    
+  #square {width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 9xp;
+  position:absolute;
+    margin:20px 0px 0px 150px;
+     
+}
+
+
+#triangle{  
+  margin:20px 0px 0px 600px;
+  border-top: 50px solid transparent;
+  border-right:50px solid transparent;
+  border-left:50px solid transparent;
+  position:absolute;
+  border-bottom:50px solid black;}
+ 
+
+#triangle-1 {
+  width: 0px;
+  height: 0px;
+  border-top: 0px solid green;
+  border-left: 50px solid transparent;
+  border-bottom: 100px solid red;
+  border-right: 50px solid transparent;
+  position: absolute;
+  margin: 20px 0px 0px 700px;}
+  
+#triangle-border{
+  width: 0px;
+  height: 0px;
+  border-top: 0px solid green;
+  border-left: 50px solid transparent;
+  border-bottom: 100px solid green;
+  border-right: 50px solid transparent;
+  position: absolute;
+  margin: 20px 0px 0px 900px;}
+
+#inner-triangle{
+  width: 0px;
+  height: 0px;
+  border-top: 0px solid green;
+  border-left: 30px solid transparent;
+  border-bottom: 100px solid yellow;
+  border-right: 20px solid transparent;
+  position: absolute;
+  margin: 20px 0px 0px 900px;}
+
+  
+}
